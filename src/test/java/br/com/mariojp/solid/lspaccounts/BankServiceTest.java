@@ -3,9 +3,6 @@ package br.com.mariojp.solid.lspaccounts;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.mariojp.solid.lspaccounts.BankService;
-import br.com.mariojp.solid.lspaccounts.CheckingAccount;
-import br.com.mariojp.solid.lspaccounts.SavingsAccount;
 
 import static org.junit.jupiter.api.Assertions.*;
 
